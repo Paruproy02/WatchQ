@@ -28,17 +28,23 @@ In case you do not have Xcode downloaded on the system, download it directly fro
 The Simulator to run the app can be accessed in Xcode(menu bar) > Open Developer Tool > Simulator (in case it doesn't automatically appear while running). <br />
 
 AppCode: <br />
-Install from here.
+Install from [here](https://www.jetbrains.com/objc/download/). <br />
+NOTE: Includes a 30-day free trial. <br /> 
 
 SDWebImage:
 You can find the installation instructions [here](https://github.com/SDWebImage/SDWebImage/wiki/Installation-Guide).
 
-# Running the project
+# Running the project 
 
-1. Clone the project from GitHub. <br />
+Xcode: <br />
+1. Copy the repository URL of the project from GitHub. <br />
 2. Open Xcode. <br />
 3. Select 'Clone an existing project' from the welcome window that pops up, enter the repository URL and Clone. <br />
 4. Alternatively, from the menu bar select Source Control > Clone... > enter the repository URL and Clone. <br />
+
+AppCode: 
+
+Find the instructions [here](https://www.jetbrains.com/help/objc/manage-projects-hosted-on-github.html). <br />
 
 # Project Contents
 
