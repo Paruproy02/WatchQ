@@ -27,8 +27,18 @@ In case you do not have Xcode downloaded on the system, download it directly fro
 (Going through the system requirements before installation is advised.) <br />
 The Simulator to run the app can be accessed in Xcode(menu bar) > Open Developer Tool > Simulator (in case it doesn't automatically appear while running). <br />
 
+AppCode: <br />
+Install from here.
+
 SDWebImage:
 You can find the installation instructions [here](https://github.com/SDWebImage/SDWebImage/wiki/Installation-Guide).
+
+# Running the project
+
+1. Clone the project from GitHub. <br />
+2. Open Xcode. <br />
+3. Select 'Clone an existing project' from the welcome window that pops up, enter the repository URL and Clone. <br />
+4. Alternatively, from the menu bar select Source Control > Clone... > enter the repository URL and Clone. <br />
 
 # Project Contents
 
