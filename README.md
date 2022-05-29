@@ -24,6 +24,7 @@ AppCode - by JetBrains <br />
 
 Xcode: <br />
 In case you do not have Xcode downloaded on the system, download it directly from the App Store or from [here](https://developer.apple.com/xcode/). <br />
+(Going through the system requirements before installation is advised.) <br />
 The Simulator to run the app can be accessed in Xcode(menu bar) > Open Developer Tool > Simulator (in case it doesn't automatically appear while running). <br />
 
 SDWebImage:
