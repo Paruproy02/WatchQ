@@ -32,7 +32,7 @@ Install from [here](https://www.jetbrains.com/objc/download/). <br />
 NOTE: Includes a 30-day free trial. <br /> 
 
 SDWebImage:
-You can find the installation instructions [here](https://github.com/SDWebImage/SDWebImage/wiki/Installation-Guide).
+You can find the installation instructions [here](https://github.com/SDWebImage/SDWebImage/wiki/Installation-Guide). <br />
 NOTE: Select install using Swift Packet Manager
 
 # Running the project 
