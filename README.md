@@ -33,6 +33,7 @@ NOTE: Includes a 30-day free trial. <br />
 
 SDWebImage:
 You can find the installation instructions [here](https://github.com/SDWebImage/SDWebImage/wiki/Installation-Guide).
+NOTE: Select install using Swift Packet Manager
 
 # Running the project 
 
@@ -88,3 +89,6 @@ Other files:  <br />
 
 API Documentation for the same can be found [here](https://developers.themoviedb.org/3/getting-started/introduction).
 
+# IMPORTANT
+
+If fetching the package dependency (SDWebImage) fails, follow the installation instruction given above and fetch it manually. 
