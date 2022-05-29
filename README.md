@@ -1,5 +1,5 @@
 # WatchQ
-<b> Microsoft Engage 2022 Mentorship Program Challenge 3 - (Algorithms) </b>
+<b> Microsoft Engage 2022 Mentorship Program Challenge 3 - Algorithms </b>
 
 This is the prototype for a movie streaming app with a recommendation engine. 
 
